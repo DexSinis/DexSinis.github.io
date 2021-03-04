@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>布拉操作文档</title>
+    <link>https://dexsinis.github.io/</link>
+    <description>Recent content on 布拉操作文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dexsinis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>文档导航</title>
+      <link>https://dexsinis.github.io/docs/example/0.%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dexsinis.github.io/docs/example/0.%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/</guid>
+      <description>布拉宗旨 靠教学质量求生存 凭家长口碑谋发展 </description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://dexsinis.github.io/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dexsinis.github.io/posts/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://dexsinis.github.io/posts/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dexsinis.github.io/posts/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://dexsinis.github.io/posts/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dexsinis.github.io/posts/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://dexsinis.github.io/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dexsinis.github.io/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dexsinis.github.io/docs/example/1.%E6%94%B6%E8%B4%B9%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dexsinis.github.io/docs/example/1.%E6%94%B6%E8%B4%B9%E6%93%8D%E4%BD%9C/</guid>
+      <description>收费操作 一、 订单收费 1 点击课时包管理 选中对应的课时包（陪练课/精品课） 点击生成订单
+2 填入实际的支付金额和选中对应的学生 点击保存生成订单
+3 发送对应的二维码给对应的客户进行扫码支付
+4 点击订单记录 确认支付状态是否支付成功
+5 开具对应的收据给对应用户 对应的日期 姓名 课时包 金额 经手人</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dexsinis.github.io/docs/example/2.%E6%8E%92%E8%AF%BE%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dexsinis.github.io/docs/example/2.%E6%8E%92%E8%AF%BE%E7%AE%A1%E7%90%86/</guid>
+      <description>排课管理 一、 常规排课 1 在课程列表中点击新增课程 2 填写对应的课程信息（ps：注意区分精品课和陪练课，正常以后都选择正式课，应该由班主任安排） 二、固定排课 （后面尽量使用固定循环计划） 1 点开固定排课并且填写的课程信息，并且选择需要循环的时间段 如上图 胡芷晴 需要排 刘奕含 每周一12:30的课（从2月1日～3月31日） 2 点击提交约课后可以看到相应的课程信息，生成对应的课表详情，需要做二次的校对课程是否正确 3 如果发现冲突或者不需要可以选择删除或者更换老师 4 确认无误后，点击确定约课 就会跳转课程列表 三、固定循环计划 1 在课程列表中点击新增循环计划 2 录入需要每月循环的学生的信息（ps：注意区分精品课和陪练课） 如上图 测试学生-演示 需要排 每周二13:00的课 3 点击查询对应的学生，并且点击编辑老师 4 录入对应的老师信息 5 再次核对循环计划信息(PS：每月的15号会自动生成下一个月的课程) 如上面计划等到16号 课程列表就回出现3月1日～3月31日 每周二 13:00的精品课课程 四、先选老师 1 填写对应的课程信息（PS：注意区分陪练课和精品课） 2 选中老师空余的时间 3 点击提交约课 4 查看核对课程是否正确 5 点击提交约课跳转课程列表 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dexsinis.github.io/docs/example/3.%E5%86%85%E9%83%A8%E6%8E%92%E7%8F%AD%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dexsinis.github.io/docs/example/3.%E5%86%85%E9%83%A8%E6%8E%92%E7%8F%AD%E7%AE%A1%E7%90%86/</guid>
+      <description>排课管理 一、 开放时间管理 1 点击新增，按照上班时间录入正常上班时间时间 2 按照周循环的方式录入内部老师的工作时间 如赵阳 周五 下午13点到晚上21点班次 二、内部老师和内部时间登记 1 点击编辑老师信息 2 标记内部老师 3 标记体验课老师 4 app是的排课时间都是不可约的状态（如果设置内部老师） 1 内部老师按照自己的日常时间，自己关闭可以排课的时间，关闭这个时间后，排课程的时候就会自动剔除该时间段的排课 三、先选学生排课  1 点击先选学生排课，系统会自动按照老师的状态计算出符合体验课 2 点击选中的老师并提交约课 3 核对无误后点击确定约课 </description>
+    </item>
+    
+  </channel>
+</rss>
