@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 布拉操作文档</title>
-    <link>http://dexsinis.github.io/tags/</link>
+    <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/</link>
     <description>Recent content in Tags on 布拉操作文档</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dexsinis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>development</title>
-      <link>http://dexsinis.github.io/tags/development/</link>
+      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dexsinis.github.io/tags/development/</guid>
+      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http://dexsinis.github.io/tags/go/</link>
+      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dexsinis.github.io/tags/go/</guid>
+      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://dexsinis.github.io/tags/golang/</link>
+      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dexsinis.github.io/tags/golang/</guid>
+      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://dexsinis.github.io/tags/hugo/</link>
+      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dexsinis.github.io/tags/hugo/</guid>
+      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>http://dexsinis.github.io/tags/templates/</link>
+      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dexsinis.github.io/tags/templates/</guid>
+      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://dexsinis.github.io/tags/themes/</link>
+      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dexsinis.github.io/tags/themes/</guid>
+      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/tags/themes/</guid>
       <description></description>
     </item>
     
