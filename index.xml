@@ -88,11 +88,11 @@ Follow the following steps:</description>
     
     <item>
       <title></title>
-      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/example/3.%E5%86%85%E9%83%A8%E6%8E%92%E7%8F%AD%E7%AE%A1%E7%90%86/</link>
+      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/example/3.%E5%86%85%E9%83%A8%E4%BD%93%E9%AA%8C%E8%AF%BE%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/example/3.%E5%86%85%E9%83%A8%E6%8E%92%E7%8F%AD%E7%AE%A1%E7%90%86/</guid>
-      <description>内部排班管理 #  一、 开放时间管理 #  1 点击新增，按照上班时间录入正常上班时间时间 #  2 按照周循环的方式录入内部老师的工作时间 如赵阳 周五 下午13点到晚上21点班次 #  二、内部老师和内部时间登记 #  1 点击编辑老师信息 #  2 标记内部老师 #  3 标记体验课老师 #  4 app是的排课时间都是不可约的状态（如果设置内部老师） #  1 内部老师按照自己的日常时间，自己关闭可以排课的时间，关闭这个时间后，排课程的时候就会自动剔除该时间段的排课 #  三、先选学生排课 #  #  1 点击先选学生排课，系统会自动按照老师的状态计算出符合体验课 #  2 点击选中的老师并提交约课 #  3 核对无误后点击确定约课 #  </description>
+      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/example/3.%E5%86%85%E9%83%A8%E4%BD%93%E9%AA%8C%E8%AF%BE%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</guid>
+      <description>内部体验课时间管理 #  一、 开放时间管理 #  1 点击新增，按照上班时间录入正常上班时间时间 #  2 按照周循环的方式录入内部老师的工作时间 如赵阳 周五 下午13点到晚上21点班次 #  二、内部老师和内部时间登记 #  1 点击编辑老师信息 #  2 标记内部老师 #  3 标记体验课老师 #  4 app是的排课时间都是不可约的状态（如果设置内部老师） #  1 内部老师按照自己的日常时间，自己关闭可以排课的时间，关闭这个时间后，排课程的时候就会自动剔除该时间段的排课 #  三、先选学生排课 #  #  1 点击先选学生排课，系统会自动按照老师的状态计算出符合体验课 #  2 点击选中的老师并提交约课 #  3 核对无误后点击确定约课 #  </description>
     </item>
     
     <item>
