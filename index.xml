@@ -134,5 +134,28 @@ Follow the following steps:</description>
       <description>排课管理 #  一、 学生后台课时 #  1 学生可以点击切换查看精品课时和陪练课时 #  字段说明 #  总课时：（学生购买的课时，包括赠送的课时） #  剩余课时：（学生剩余的实际课时，也是家长关心的实际剩余课时） #  消耗课时：（学生实际已经上课的课时） #  预约课时：（学生排好但是没有上课的课时） #  (实际消耗+预约)课时：（实际消耗课时+预约课时） #  可约课时：（学生未来还可以约多少个课时） #  二、 学生APP陪练课时 #  1 学生陪练课时 #  剩余课时 = 剩余课时(=实际剩余课时) #  已用课时 = 消耗课时 #  三、 学生APP主课课时 #  1 学生主课课时 （需要在后台编辑学生信息为精品课学生，app才会出现主课课时的入口） #  剩余课时 = 剩余课时(=后台剩余课时) #  消耗课时 = 消耗课时 #  </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/example/6.%E7%BA%BF%E4%B8%8A%E8%80%83%E7%BA%A7%E6%B4%BB%E5%8A%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/example/6.%E7%BA%BF%E4%B8%8A%E8%80%83%E7%BA%A7%E6%B4%BB%E5%8A%A8/</guid>
+      <description>一.视频收集 #  1.邮件收集（布拉比赛bulabisai@163.com） #  ​ 报名页面H5页面
+​ 姓名：胡英杰
+​ 电话：13428281935
+​ 流程：
+​ 点击报名&amp;mdash;&amp;mdash;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;gt; 跳转支付页面 &amp;mdash;&amp;mdash;&amp;ndash;&amp;raquo;&amp;raquo;&amp;raquo; 支付成功后弹出比赛专员微信号 （这样可以避免报名费的分成）
+​ 比赛专员&amp;mdash;&amp;mdash;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;gt;预备好话术指导用户发送邮件 视频（原视频发送）+ 头像
+​ 比赛专员&amp;mdash;&amp;mdash;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;gt;上传视频到B站并且获取到对应的视频链接
+​ 比赛专员&amp;mdash;&amp;mdash;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&amp;gt;创建比赛用户的账号并且关联对应的视频
+需要准备的东西
+比赛的微信号
+比赛负责专员 和 对应的比赛要求发送视频的话术模版
+比赛视频的B站号
+二.投票采用 #  1.魔盒投票： #  ​ 功能
+​ 1 首页广告可以任意跳转到我们需要的页面 如领取体验课，或者引导跳转我们平台生成类似合成头像打卡的图片分享
+​ 2 支持礼物刷票（ps 因为微信的原因，购买礼物需要不会直接在用户页面显示，只会在投票的时候弹出）</description>
+    </item>
+    
   </channel>
 </rss>
