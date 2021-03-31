@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>文档导航</title>
-      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/%E5%B8%83%E6%8B%89/0.%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/%E5%B8%83%E6%8B%89/0.%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/</guid>
-      <description>布拉宗旨 #  靠教学质量求生存 凭家长口碑谋发展 #  </description>
-    </item>
-    
-    <item>
       <title>Creating a New Theme</title>
       <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
@@ -66,10 +57,10 @@ Follow the following steps:</description>
     
     <item>
       <title></title>
-      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/%E4%BC%98%E8%B4%9D%E7%94%9C/0.%E8%8F%9C%E5%8D%95%E5%88%92%E5%88%86/</link>
+      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/%E4%BC%98%E8%B4%9D%E7%94%9C/1.%E8%8F%9C%E5%8D%95%E5%88%92%E5%88%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/%E4%BC%98%E8%B4%9D%E7%94%9C/0.%E8%8F%9C%E5%8D%95%E5%88%92%E5%88%86/</guid>
+      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/%E4%BC%98%E8%B4%9D%E7%94%9C/1.%E8%8F%9C%E5%8D%95%E5%88%92%E5%88%86/</guid>
       <description>角色划分
   学生(ybt_student) 学生
   老师(ybt_teacher) 老师
@@ -89,10 +80,10 @@ Follow the following steps:</description>
     
     <item>
       <title></title>
-      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/%E4%BC%98%E8%B4%9D%E7%94%9C/1.%E6%8E%A5%E5%8F%A3%E6%A2%B3%E7%90%86/</link>
+      <link>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/%E4%BC%98%E8%B4%9D%E7%94%9C/2.%E6%8E%A5%E5%8F%A3%E6%A2%B3%E7%90%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/%E4%BC%98%E8%B4%9D%E7%94%9C/1.%E6%8E%A5%E5%8F%A3%E6%A2%B3%E7%90%86/</guid>
+      <guid>http://coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com/docs/%E6%96%87%E6%A1%A3%E5%AF%BC%E8%88%AA/%E4%BC%98%E8%B4%9D%E7%94%9C/2.%E6%8E%A5%E5%8F%A3%E6%A2%B3%E7%90%86/</guid>
       <description>管理员(ybt_manager)
   登录/注册
  微信授权登录 验证码登录    弹窗
